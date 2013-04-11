@@ -4,7 +4,7 @@ lab6
 Ćwiczenia do wykonania na zajęciach PIO (12-04-2013)
 
 
-Projekt - diagram przypadków użycia (USe case diagram)
+Projekt - diagram przypadków użycia (use case diagram)
 ------------------------------------------------------
 
 1) Przeczytaj http://io.ii.us.edu.pl/res/files/pio/pio.modelowanie.pdf
